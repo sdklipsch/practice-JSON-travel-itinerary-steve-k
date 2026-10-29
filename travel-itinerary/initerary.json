@@ -20,6 +20,11 @@
         {
           "title": "Broadway Show",
           "time": "08:00PM"
+        }, 
+        {
+          "transportation": {
+          "mode": "plane", 
+          "cost": "150 euro"}
         }
       ]
     },
@@ -35,7 +40,12 @@
         {
           "title": "Surf Lessons",
           "time": "01:30PM"
-        }
+        },
+        {
+         "transportation": {
+          "mode": "plane", 
+          "cost": "150 euro"}
+         }
       ]
     }
   ]
